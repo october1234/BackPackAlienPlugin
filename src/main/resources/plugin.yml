@@ -1,0 +1,4 @@
+name: BackPackAlienPlugin
+version: '${version}'
+main: org.octsrv.backpackalienplugin.BackPackAlienPlugin
+api-version: '1.21'
